@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pcfund/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/pcfund/static/js/main.146b8f01.chunk.js",
+    "main.js.map": "/pcfund/static/js/main.146b8f01.chunk.js.map",
+    "runtime-main.js": "/pcfund/static/js/runtime-main.03740bed.js",
+    "runtime-main.js.map": "/pcfund/static/js/runtime-main.03740bed.js.map",
+    "static/js/2.3cd32304.chunk.js": "/pcfund/static/js/2.3cd32304.chunk.js",
+    "static/js/2.3cd32304.chunk.js.map": "/pcfund/static/js/2.3cd32304.chunk.js.map",
+    "static/js/3.55cdb5ac.chunk.js": "/pcfund/static/js/3.55cdb5ac.chunk.js",
+    "static/js/3.55cdb5ac.chunk.js.map": "/pcfund/static/js/3.55cdb5ac.chunk.js.map",
+    "index.html": "/pcfund/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/pcfund/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3cd32304.chunk.js.LICENSE.txt": "/pcfund/static/js/2.3cd32304.chunk.js.LICENSE.txt",
+    "static/media/logo.cd81f4a0.jpeg": "/pcfund/static/media/logo.cd81f4a0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03740bed.js",
+    "static/js/2.3cd32304.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.146b8f01.chunk.js"
+  ]
+}
